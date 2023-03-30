@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Git PULL 1'),
+      home: const MyHomePage(title: 'Git PULL 2'),
     );
   }
 }
